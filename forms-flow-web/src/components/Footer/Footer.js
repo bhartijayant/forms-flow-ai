@@ -13,7 +13,7 @@ const Footer = React.memo(() => {
           <a className="text-link" href="https://formsflow.ai/">
             formsflow.ai
           </a>
-          {` v${version_org}`}
+          {` v10.1.0`}
         </div>
       </div>
     </div>
